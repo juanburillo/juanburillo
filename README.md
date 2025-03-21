@@ -1,12 +1,17 @@
-<h1 align="left">Welcome to my profile!</h1>
+<h1 align="center">Welcome to Juan's GitHub!</h1>
 
 ###
 
-<p align="center">👋 Hello! I am a junior full-stack developer with a great passion for technology and software development. I focus on solving real-world problems through practical and innovative solutions. I am always seeking new opportunities to learn technologies I am unfamiliar with and to improve those I already have experience in. I am motivated by the idea of creating software that simplifies life, applying a practical and results-oriented approach.</p>
+<p align="center">
+    🚀 Hello! I am a junior full-stack developer with a great passion for technology and software development.<br>
+    💡 I enjoy solving real-world problems through practical and innovative solutions.<br>
+    🧠 I am always seeking new opportunities to learn technologies I am unfamiliar with and to improve those I already have experience in.<br>
+    ⚙️ I am motivated by the idea of creating software that simplifies life, applying a practical and results-oriented approach.
+</p>
 
 ###
 
-<h2 align="left">My favorite technologies</h2>
+<h2 align="center">My Favorite Technologies</h2>
 
 ###
 
